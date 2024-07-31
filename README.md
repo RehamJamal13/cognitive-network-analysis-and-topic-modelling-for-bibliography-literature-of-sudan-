@@ -37,6 +37,10 @@ https://github.com/RehamJamal13/cognitive-network-analysis-and-topic-modelling-f
 - Interfaces for training and evaluating models for tasks such as sentiment analysis and text classification.
 - Utilizes metrics like precision, recall, and F1-score to assess model performance.
 
+### Visualising El Hassan Network
+
+Using PyVis from NetworkX to visualize collaboration between Dr.El Hassan and his CoAuthors , the thickness of line between authors may indicate that they collaborated multiple time
+
 ## Future Work
 
 While the current focus is on building a robust backend, future plans include developing a user-friendly front end to make the tools more accessible and intuitive for users.
