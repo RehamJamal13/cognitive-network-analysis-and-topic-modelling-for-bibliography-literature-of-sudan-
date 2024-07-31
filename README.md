@@ -26,7 +26,8 @@ With the increasing volume of unstructured text data, there is a growing need fo
 
 ### Visualization Tools
 
-[https://github.com/RehamJamal13/cognitive-network-analysis-and-topic-modelling-for-bibliography-literature-of-sudan-/issues/1#issue-2439234850](https://github.com/RehamJamal13/cognitive-network-analysis-and-topic-modelling-for-bibliography-literature-of-sudan-/issues/2#issue-2439238177)
+![photo_2024-07-31_06-23-42](https://github.com/user-attachments/assets/9233307e-e0d8-45b8-9748-b042288e57a4)
+
 - **Word Cloud Generation:** Visualizes the most frequent terms in a corpus.
 - **Network Graphs:** Displays relationships between words or topics, enhancing interpretability.
 
