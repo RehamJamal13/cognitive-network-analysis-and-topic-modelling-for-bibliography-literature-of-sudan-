@@ -26,7 +26,7 @@ With the increasing volume of unstructured text data, there is a growing need fo
 
 ### Visualization Tools
 
-![Word Cloud Example](path/to/wordcloud.png)
+![Word Cloud Example](![photo_2024-07-31_06-23-42])
 
 - **Word Cloud Generation:** Visualizes the most frequent terms in a corpus.
 - **Network Graphs:** Displays relationships between words or topics, enhancing interpretability.
