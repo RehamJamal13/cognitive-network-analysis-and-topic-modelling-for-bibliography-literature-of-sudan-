@@ -31,7 +31,9 @@ With the increasing volume of unstructured text data, there is a growing need fo
 - **Word Cloud Generation:** Visualizes the most frequent terms in a corpus.
 - **Network Graphs:** Displays relationships between words or topics, enhancing interpretability.
 
-![Network Graph Example](path/to/networkgraph.png)
+![Network Graph Example]
+![photo_2024-07-31_06-34-01](https://github.com/user-attachments/assets/7c6bdf1f-5801-4023-9f05-44300319755e)
+
 
 ### Model Training and Evaluation
 
