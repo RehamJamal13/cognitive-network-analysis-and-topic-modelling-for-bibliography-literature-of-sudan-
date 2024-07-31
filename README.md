@@ -38,6 +38,8 @@ https://github.com/RehamJamal13/cognitive-network-analysis-and-topic-modelling-f
 - Utilizes metrics like precision, recall, and F1-score to assess model performance.
 
 ### Visualising El Hassan Network
+![photo_2024-07-31_06-30-43](https://github.com/user-attachments/assets/ae6d32e9-4d50-4cf8-ac03-37bf4c035865)
+
 
 Using PyVis from NetworkX to visualize collaboration between Dr.El Hassan and his CoAuthors , the thickness of line between authors may indicate that they collaborated multiple time
 
